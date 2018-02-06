@@ -1,12 +1,17 @@
 {
   "name": "capture-html",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ani",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaoni3168/capture-html"
+  },
   "license": "MIT",
   "bin": {
     "caphtml": "./index.js"
