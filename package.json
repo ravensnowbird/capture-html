@@ -17,7 +17,7 @@
     "caphtml": "./index.js"
   },
   "dependencies": {
-    "commander": "^2.13.0",
-    "puppeteer": "^1.0.0"
+    "commander": "4.0.1",
+    "puppeteer": "2.0.0"
   }
 }
